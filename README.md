@@ -26,7 +26,7 @@ The project uses the following libraries and dependencies:
   - `scikit-learn`
   - `matplotlib`
   - `seaborn`
-  - `pickle` (for saving and loading models)
+  - `joblib` (for saving and loading models)
   
 Install the required Python libraries using `pip`:
 
