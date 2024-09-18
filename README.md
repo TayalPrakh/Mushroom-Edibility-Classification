@@ -8,23 +8,6 @@ The classification is based on the **Mushroom Dataset** from the UCI Machine Lea
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#overview)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Training the Model](#training-the-model)
-  - [Saving the Model](#saving-the-model)
-  - [Loading and Using the Model](#loading-and-using-the-model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Dataset
 
 The dataset used for this project can be downloaded from the [UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/mushroom). It contains 8,124 samples of mushrooms, where each sample has 23 categorical features describing the mushroom (e.g., cap shape, gill color, stalk surface) and one target variable (`class`), which indicates whether the mushroom is edible (`e`) or poisonous (`p`).
